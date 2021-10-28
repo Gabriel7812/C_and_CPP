@@ -1,0 +1,4 @@
+a melhor maneira de escrever programas em C ou C++ no windows e pelo compilador direto sem usar IDE's pois as IDE's de C/C++ são literalmente Horríveis.
+Segue abaixo alguns tutoriais de como compilar e executar seus códigos direto pelo compilador C instalado em sua maquina e usando o CMD.
+https://www.youtube.com/watch?v=3hTOXZWQVVs
+https://www.youtube.com/watch?v=3vgJX9hjoLU
